@@ -1,4 +1,4 @@
-# Package-of-the-Week
+# Module Mayhem
 *Click on the Jupyter Notebook of interest, it will be compiled and readable on the following page*
 ### 1: [`namedtuple`](https://github.com/betteridiot/PotW/blob/master/Notebooks/namedtuple.ipynb) ###
 ### 2: [`pandas`](https://github.com/betteridiot/PotW/blob/master/Notebooks/Pandas.ipynb) ###
@@ -8,3 +8,4 @@
 ### 6: [`plotly`](http://nbviewer.jupyter.org/github/betteridiot/PotW/blob/9217e4bb002428f59169ac60be7d84837fb5160e/Notebooks/Plotly.ipynb) ###
 ### 7: [`colorlog` & `fabulous`](https://github.com/betteridiot/PotW/blob/master/Notebooks/colorlog%20%26%20fabulous.ipynb)
 ### 8: [`docopt`](https://github.com/betteridiot/PotW/blob/master/Notebooks/docopt.ipynb)
+### 9: [`geopy`](https://github.com/betteridiot/ModuleMayhem/blob/master/Notebooks/Geopy.ipynb)
